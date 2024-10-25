@@ -1,0 +1,21 @@
+{
+  "logoURI": "/images/coins/wmaze.png",
+  "name": "Token List",
+  "keywords": ["compound", "defi"],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 76115,
+      "address": "0x3997d1A11F4225271a1d7b709F48d7ebC6146657",
+      "name": "Wrapped Maze",
+      "symbol": "WMAZE",
+      "decimals": 18,
+      "logoURI": "/images/coins/wmaze.png"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
